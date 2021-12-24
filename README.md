@@ -12,7 +12,7 @@ To answer this question, the script reads in a large `species_data.csv` file fro
 
 Download with:
 ```
-git clone https://github.com/Tommrodrigues/Evolutionary-Simulation-Analyser.git
+git clone https://github.com/phenotypic/Evolutionary-Simulation-Analyser.git
 ```
 
 Run from same directory with:
